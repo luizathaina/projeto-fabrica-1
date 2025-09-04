@@ -25,4 +25,4 @@ class TestMedia(unittest.TestCase):
         self.assertEqual(classificar_media(4.99), "Reprovado(a) ❌")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(
